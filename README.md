@@ -17,7 +17,7 @@
 
 
 
-![Harish-Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish-sarkar&show_icons=true&theme=prussian)
+
 
 - <sub>Reach me@</sub>
 
