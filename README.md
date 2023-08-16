@@ -7,11 +7,11 @@
 
 
 
-***Techology Stack:***
+***Technology Stack:***
 
 
 
-[![Technology Stack](https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,jquery,sass,redux,python,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Technology Stack](https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,jquery,sass,redux,python,nextjs,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
